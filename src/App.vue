@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav class="navbar navbar-expand navbar-dark bg-dark">
-      <a href="/" class="navbar-brand">bezKoder</a>
+      <a href="/" class="navbar-brand">Higashinomirai</a>
       <div class="navbar-nav mr-auto">
         <li class="nav-item">
           <router-link to="/home" class="nav-link">
@@ -49,12 +49,25 @@
 
     <div class="container">
       <router-view />
+      <div>
+        <b-table striped hover :items="items"></b-table>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
+  data() {
+    return {
+      items: [
+        { age: 40, first_name: 'Dickerson', last_name: 'Macdonald' },
+        { age: 21, first_name: 'Larsen', last_name: 'Shaw' },
+        { age: 89, first_name: 'Geneva', last_name: 'Wilson' },
+        { age: 38, first_name: 'Jami', last_name: 'Carney' }
+      ]
+    }
+  },
   computed: {
     currentUser() {
       return this.$store.state.auth.user;

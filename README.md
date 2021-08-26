@@ -17,7 +17,7 @@
 ![vue-3-authentication-jwt-example-vuex-user-login](vue-3-authentication-jwt-example-vuex-user-login.png)
 
 For instruction, please visit:
-> [Vue 3 Authentication & Authorization with JWT, Vuex and Vue Router](https://bezkoder.com/vue-3-authentication-jwt/)
+> [Vue 3 Authentication & Authorization with JWT, Vuex and Vue Router](https://higashinomirai.com/vue-3-authentication-jwt/)
 
 ## Note:
 Open `src/services/auth-header.js` and modify `return` statement for appropriate back-end.
@@ -36,35 +36,35 @@ export default function authHeader() {
 ```
 
 Related Posts:
-> [Vue 2 JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
+> [Vue 2 JWT Authentication with Vuex and Vue Router](https://higashinomirai.com/jwt-vue-vuex-authentication/)
 
-> [Using Typescript](https://bezkoder.com/vuex-typescript-jwt-auth/)
+> [Using Typescript](https://higashinomirai.com/vuex-typescript-jwt-auth/)
 
-> [Vue 3 CRUD example with Axios and Vue Router](https://bezkoder.com/vue-3-crud/)
+> [Vue 3 CRUD example with Axios and Vue Router](https://higashinomirai.com/vue-3-crud/)
 
 Fullstack with Spring Boot Back-end:
-> [Spring Boot + Vue.js: Authentication with JWT & Spring Security Example](https://bezkoder.com/spring-boot-vue-js-authentication-jwt-spring-security/)
+> [Spring Boot + Vue.js: Authentication with JWT & Spring Security Example](https://higashinomirai.com/spring-boot-vue-js-authentication-jwt-spring-security/)
 
 Fullstack with Node.js Express Back-end:
-> [Node.js Express + Vue.js: JWT Authentication & Authorization example](https://bezkoder.com/node-express-vue-jwt-auth/)
+> [Node.js Express + Vue.js: JWT Authentication & Authorization example](https://higashinomirai.com/node-express-vue-jwt-auth/)
 
 Fullstack CRUD:
-> [Vue.js + Node.js + Express + MySQL example](https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/)
+> [Vue.js + Node.js + Express + MySQL example](https://higashinomirai.com/vue-js-node-js-express-mysql-crud-example/)
 
-> [Vue.js + Node.js + Express + PostgreSQL example](https://bezkoder.com/vue-node-express-postgresql/)
+> [Vue.js + Node.js + Express + PostgreSQL example](https://higashinomirai.com/vue-node-express-postgresql/)
 
-> [Vue.js + Node.js + Express + MongoDB example](https://bezkoder.com/vue-node-express-mongodb-mevn-crud/)
+> [Vue.js + Node.js + Express + MongoDB example](https://higashinomirai.com/vue-node-express-mongodb-mevn-crud/)
 
-> [Vue.js + Spring Boot + MySQL/PostgreSQL example](https://bezkoder.com/spring-boot-vue-js-crud-example/)
+> [Vue.js + Spring Boot + MySQL/PostgreSQL example](https://higashinomirai.com/spring-boot-vue-js-crud-example/)
 
-> [Vue.js + Spring Boot + MongoDB example](https://bezkoder.com/spring-boot-vue-mongodb/)
+> [Vue.js + Spring Boot + MongoDB example](https://higashinomirai.com/spring-boot-vue-mongodb/)
 
-> [Vue.js + Django example](https://bezkoder.com/django-vue-js-rest-framework/)
+> [Vue.js + Django example](https://higashinomirai.com/django-vue-js-rest-framework/)
 
 Integration (run on same server/port):
-> [Integrate Vue.js with Spring Boot](https://bezkoder.com/integrate-vue-spring-boot/)
+> [Integrate Vue.js with Spring Boot](https://higashinomirai.com/integrate-vue-spring-boot/)
 
-> [Integrate Vue App with Node.js Express](https://bezkoder.com/serve-vue-app-express/)
+> [Integrate Vue App with Node.js Express](https://higashinomirai.com/serve-vue-app-express/)
 
 
 ## Project setup
