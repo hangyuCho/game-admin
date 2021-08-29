@@ -1,7 +1,7 @@
 import axios from 'axios';
 import authHeader from './auth-header';
 
-const API_URL = 'http://localhost:3000/roomMessage';
+const API_URL = `http://${process.env.APP_DATA_API_PATH}/roomMessage`;
 
 class UserService {
   getAllChatList() {
